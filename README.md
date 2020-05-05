@@ -46,4 +46,4 @@ For build and installation instructions, see [INSTALL.md](INSTALL.md). The file 
 Fair Play
 ---------
 
-Similar to Bitcoin, Bitcoin Vault is a decentralized community-driven project. The authors of this reference implemntation provide no guarantees to its completeness, accuracy or future roadmap. You may become a member of the community by working on your own reference implementation or participating as a contributor on this one.
+Unlike Bitcoin, Bitcoin Vault is a centralized project. The authors of this reference implemntation provide no guarantees to its completeness, accuracy or future roadmap. You may become a member of the community by working on your own reference implementation or participating as a contributor on this one.
